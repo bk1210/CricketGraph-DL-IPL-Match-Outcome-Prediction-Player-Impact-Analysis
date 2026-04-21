@@ -110,7 +110,9 @@ jupyter notebook cricketgraph_dl.ipynb
 Or upload directly to **Kaggle** and run with T4/P100 GPU for best performance.
 
 ---
+## 🔄 Pipeline
 
+![Pipeline](pipeline.png)
 ## 📖 Usage
 
 ### Running the Full Pipeline
